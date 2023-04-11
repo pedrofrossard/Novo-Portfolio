@@ -9,6 +9,7 @@
     justify-content: flex-start;
     align-items: center;
     flex-wrap: wrap;
+    gap: 10px;
     margin: 0;
     padding: 0;
     list-style: none;
@@ -16,7 +17,13 @@
 
 .skills .tools ul li img {
     max-width: 50px;
-    margin: 0 .5rem;
+}
+
+.skills .tools ul .tool-html,
+.skills .tools ul .tool-css {
+    border: 1px solid #F4F4F4;
+    border-radius: 16px;
+    padding-top: 10px;
 }
 
 .skills .personal ul {
