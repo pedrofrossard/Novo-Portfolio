@@ -109,12 +109,12 @@
     {
       "name": "Desafio Pokedex",
       "url": "https://github.com/pedrofrossard/DIO-JavaScript-Desafio-Pokedex-main",
-      "git": "true"
+      "github": "true"
     },
     {
       "name": "Calculadora em React",
       "url": "https://github.com/pedrofrossard/calculadoraemreact-master",
-      "git": "true"
+      "github": "true"
     }
   ],
   "experiencias": [
