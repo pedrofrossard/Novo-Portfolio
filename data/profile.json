@@ -9,7 +9,7 @@
     "hardSkills": [
       {
         "name": "HTML",
-        "logo": "https://raw.githubusercontent.com/pedrofrossard/Portfolio-Pedro/21f6bc423b8edd37999a2783b74976577ce1780eassets/img/icons/tools/html.svg"
+        "logo": "https://raw.githubusercontent.com/pedrofrossard/Portfolio-Pedro/871a88e9cd938d65ab2843409349177b11166143/assets/img/icons/tools/html.svg"
       },
       {
         "name": "CSS",
@@ -17,11 +17,11 @@
       },
       {
         "name": "Javascript",
-        "logo": "https://raw.githubusercontent.com/pedrofrossard/Portfolio-Pedro/21f6bc423b8edd37999a2783b74976577ce1780eassets/img/icons/tools/javascript.svg"
+        "logo": "https://raw.githubusercontent.com/pedrofrossard/Portfolio-Pedro/871a88e9cd938d65ab2843409349177b11166143/assets/img/icons/tools/javascript.svg"
       },
       {
         "name": "React",
-        "logo": "https://raw.githubusercontent.com/pedrofrossard/Portfolio-Pedro/21f6bc423b8edd37999a2783b74976577ce1780eassets/img/icons/tools/react.svg"
+        "logo": "https://raw.githubusercontent.com/pedrofrossard/Portfolio-Pedro/871a88e9cd938d65ab2843409349177b11166143/assets/img/icons/tools/react.svgg"
       },
       {
         "name": "Git",
@@ -29,7 +29,7 @@
       },
       {
         "name": "Node.js",
-        "logo": "https://raw.githubusercontent.com/pedrofrossard/Portfolio-Pedro/21f6bc423b8edd37999a2783b74976577ce1780eassets/img/icons/tools/nodejs.svg"
+        "logo": "https://raw.githubusercontent.com/pedrofrossard/Portfolio-Pedro/871a88e9cd938d65ab2843409349177b11166143/assets/img/icons/tools/nodejs.svg"
       }
     ],
     "softSkills": [
